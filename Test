@@ -1,0 +1,6 @@
+cows = int(input ('Podaj ilosc krow:'))
+
+if 1000000 => cows => 1:
+  break
+else:
+  print('Huraaa')
